@@ -1,6 +1,4 @@
 # py_project
 
-### Requirements
-```bash
-$ pip install -r requirements.txt
+### a tool for financial analysis
 ```
