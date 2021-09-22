@@ -1,1 +1,6 @@
-# Stock-Analyser
+# py_project
+
+### Requirements
+```bash
+$ pip install -r requirements.txt
+```
